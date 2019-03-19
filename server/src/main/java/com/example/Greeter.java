@@ -11,11 +11,11 @@ public class Greeter {
   public Greeter() {
 
   }
+  
   /**
    * @param someone is also necessary
    * @return this tag is necessary 
    */ 
-  
   public  final String greet( final String someone) {
     return String.format("Hello, %s!", someone);
   }
