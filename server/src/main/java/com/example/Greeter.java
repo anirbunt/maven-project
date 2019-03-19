@@ -13,7 +13,7 @@ public class Greeter {
   }
 
   /**
-   * This is to fix a java doc comment.
+   * @return this tag is necessary 
    */ 
   
   public  final String greet( final String someone) {
